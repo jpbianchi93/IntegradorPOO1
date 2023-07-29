@@ -1,0 +1,15 @@
+import wollok.game.*
+import mapa.*
+import pantallas.*
+
+
+program juego {
+	
+	game.title("Wollok King")
+	pantalla.empezar()
+	game.start()
+
+}
+
+
+
